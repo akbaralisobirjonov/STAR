@@ -1,0 +1,6 @@
+{
+  "appId": "uz.englishmaster.app",
+  "appName": "English Master",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
